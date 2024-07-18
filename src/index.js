@@ -2,19 +2,19 @@ import * as THREE from 'three'
 
 import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls.js';
 
-import starsTexture from './Planet Images/stars.jpg';
-import sunTexture from './Planet Images/sun.jpg';
-import mercuryTexture from './Planet Images/mercury.jpg';
-import venusTexture from './Planet Images/venus.jpg';
-import earthTexture from './Planet Images/earth.jpg';
-import marsTexture from './Planet Images/mars.jpg';
-import jupiterTexture from './Planet Images/jupiter.jpg';
-import saturnTexture from './Planet Images/saturn.jpg';
-import saturnRingTexture from './Planet Images/saturn ring.png';
-import uranusTexture from './Planet Images/uranus.jpg';
-import uranusRingTexture from './Planet Images/uranus ring.png';
-import neptuneTexture from './Planet Images/neptune.jpg';
-import plutoTexture from './Planet Images/pluto.jpg';
+import starsTexture from './PlanetImages/stars.jpg';
+import sunTexture from './PlanetImages/sun.jpg';
+import mercuryTexture from './PlanetImages/mercury.jpg';
+import venusTexture from './PlanetImages/venus.jpg';
+import earthTexture from './PlanetImages/earth.jpg';
+import marsTexture from './PlanetImages/mars.jpg';
+import jupiterTexture from './PlanetImages/jupiter.jpg';
+import saturnTexture from './PlanetImages/saturn.jpg';
+import saturnRingTexture from './PlanetImages/saturn ring.png';
+import uranusTexture from './PlanetImages/uranus.jpg';
+import uranusRingTexture from './PlanetImages/uranus ring.png';
+import neptuneTexture from './PlanetImages/neptune.jpg';
+import plutoTexture from './PlanetImages/pluto.jpg';
 
 const renderer = new THREE.WebGLRenderer();
 
