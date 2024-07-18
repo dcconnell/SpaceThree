@@ -1,6 +1,6 @@
-import * as THREE from './node_modules/three/build/three.cjs'
+import * as THREE from 'three'
 
-import {OrbitControls} from './three/examples/jsm/controls/OrbitControls.js';
+import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls.js';
 
 import starsTexture from './Planet Images/stars.jpg';
 import sunTexture from './Planet Images/sun.jpg';
